@@ -1,2 +1,2 @@
 # letterboxd-sources
-A userscript that introduces a side panel inside Letterboxd that allows for quick access to many popular trackers and sites to search for movies from letterboxd
+A userscript that introduces a side panel inside Letterboxd to allow an entry to be quickly searched on trackers/websites
