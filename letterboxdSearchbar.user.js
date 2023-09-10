@@ -3,8 +3,8 @@
     // ==UserScript==
     // @name        Letterboxd Searchbar
     // @description Adds a search bar that allows quick and easy in-site searches to trackers and other websites, updated with additional entries and working links
-    // @author      nulled
-    // @namespace   nulled
+    // @author      scourgeofgrozny
+    // @namespace   scourgeofgrozny
     // @locale      English
     // @include     https://letterboxd.com/film/*
     // @version     1.0
